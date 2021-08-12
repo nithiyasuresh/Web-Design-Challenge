@@ -1,6 +1,5 @@
 # Web-Visualization-Dashboard-Latitude
 
-## Latitude - Latitude Analysis Dashboard
 I created a visualization dashboard website using visualizations where I would be plotting weather data.
 
 In building this dashboard, I created individual pages for each plot and a means by which I can navigate between them. These pages would contain the visualizations and their corresponding explanations. I have a landing page, a page where I can see a comparison of all of the plots, and another page where I can view the data used to build them.
